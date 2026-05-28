@@ -6,4 +6,8 @@ The image analysis script takes in an mp4 video and outputs pickle files contain
 
 Installation is done via conda, by creating an environment with the respective environment file.
 
-Execution can be done via the provided script, which opens a seperate window to select gut segemnts.
+Execution can be done via the provided script, which opens a seperate window to select gut segemnts. A rotation of the image can be applied in degrees, in case the alignment is not perfect.
+
+```
+./run_gutImager.sh file.mp4 rotationInDegrees
+```
