@@ -13,3 +13,5 @@ Execution is done via the provided script `run_gutImager.sh`, which opens a sepe
 conda activate gutImager
 ./run_gutImager.sh file.mp4 rotationInDegrees
 ```
+
+No special hardware is needed to run this script, howver on a standard desktop PC analysis takes about 45min for a 30min video, as workloads are only single threaded.
