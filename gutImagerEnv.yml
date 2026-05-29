@@ -53,4 +53,3 @@ dependencies:
       - six==1.16.0
       - tifffile==2023.12.9
       - tzdata==2023.4
-prefix: /home4/p300515/.conda/envs/gutImager
